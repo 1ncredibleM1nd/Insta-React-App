@@ -9,4 +9,4 @@ const ErrorMessage=()=>{
     )
 };
 
-export default ErroeMessage;
+export default ErrorMessage;
