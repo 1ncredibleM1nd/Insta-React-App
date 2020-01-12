@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14da9640-e312-47cd-83cb-452b16bdf8c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/posts/posts.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/posts/posts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/services/instaServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/instaServices.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,8 +88,16 @@
       <option name="presentableId" value="Default" />
       <updated>1578783088695</updated>
       <workItem from="1578783090452" duration="8490000" />
-      <workItem from="1578837881198" duration="4371000" />
+      <workItem from="1578837881198" duration="5027000" />
     </task>
+    <task id="LOCAL-00001" summary="Add working with server , written lifecycle for rendering posts">
+      <created>1578865301125</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578865301125</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +118,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Add working with server , written lifecycle for rendering posts" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add working with server , written lifecycle for rendering posts" />
   </component>
 </project>
