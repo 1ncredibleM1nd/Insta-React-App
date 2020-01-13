@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14da9640-e312-47cd-83cb-452b16bdf8c8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/error.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/palette/palette.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/profile/profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/instaServices.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/instaServices.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578783088695</updated>
       <workItem from="1578783090452" duration="8490000" />
-      <workItem from="1578837881198" duration="7880000" />
+      <workItem from="1578837881198" duration="15940000" />
     </task>
     <task id="LOCAL-00001" summary="Add working with server , written lifecycle for rendering posts">
       <created>1578865301125</created>
